@@ -70,5 +70,4 @@ function markCompleted(id){
         }
     })
 }
-
 getItems();
